@@ -1,0 +1,10 @@
+
+# Smart Payment Alert
+
+An Android app that detects supported UPI payment notifications and announces the amount using voice.
+
+## Features
+- Payment notifications
+- Voice announcements
+- Android app
+      
