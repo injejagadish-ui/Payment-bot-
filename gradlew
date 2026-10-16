@@ -1,1 +1,1 @@
-gradle wrapper --gradle-version 8.9
+gradle wrapper --gradle-version 8.11.1
